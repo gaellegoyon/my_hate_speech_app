@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>Détecteur de Hate Speech</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  <h1>Détecteur de discours haineux</h1>
+
+  <textarea id="input-text" placeholder="Tapez une phrase…"></textarea>
+  <button id="classify-btn">Classifier</button>
+
+  <div id="result"></div>
+
+  <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>
