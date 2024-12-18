@@ -15,7 +15,7 @@ My Hate Speech App is a project aimed at detecting and mitigating hate speech in
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/my_hate_speech_app.git
+git clone https://github.com/gaellegoyon/my_hate_speech_app.git
 ```
 
 2. Navigate to the project directory:
