@@ -4,7 +4,10 @@
 
 My Hate Speech App is a project aimed at detecting and mitigating hate speech in online content. The application leverages advanced machine learning techniques to identify harmful language and promote a safer digital environment.
 
-[▶️ Visionner la capture vidéo](./capture.mp4)
+<video controls width="600">
+  <source src="./capture.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Features
 
